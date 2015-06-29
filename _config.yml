@@ -1,4 +1,4 @@
-# Plugins
+﻿# Plugins
 gems:
 - jekyll-sitemap
 safe: false
@@ -11,22 +11,22 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+email: "tejasvya@buffalo.edu"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+url: "http://tejas1794.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "--"
+googleAnalyticsSiteUrl: "tejas1794.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Buffalo"
+organizerAlternateName: "Google Developer Group Buffalo"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "tejasvya@buffalo.edu"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://tejas1794.github.io/zeppelin"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
